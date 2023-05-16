@@ -1,0 +1,1082 @@
+@media(max-width:1200px) {}
+
+@media(max-width:1024px) {
+    .certificationSliderAbt {
+  width: 100%;
+  float: none;
+}
+.certificateLogos {
+  float: none;
+  width: 100%;
+}
+.certificateLogos .item {
+  width: 100%;
+  float: none;
+}
+.productBgImg {
+  background-image: url("../images/products-banner-mbl.jpg");
+}
+.tab1_bg_leather {
+  background-image: url(../images/leather-banner-inside-mbl.jpg);
+}
+
+.tab1_bg1{
+    background-image: url("../images/footwear-mobile-img-new.png");
+}
+.tab1_bg2{
+    background-image: url("../images/gloves-mbl.jpg");
+}
+.tab1_bg3{
+    background-image: url("../images/disposable-masks-mobile-img.png");
+}
+.tab1_bg4{
+    background-image: url("../images/ear-plugs-mobile-img.png");
+}
+/*.tab2_bg1{*/
+/*    background-image: url("../images/footwear.png");*/
+/*}*/
+.tab3_bg1{
+    background-image: url("../images/sports-goods-mbl.jpg");
+}
+.tab4_bg1{
+    background-image: url("../images/Hydroconductive-wound-dressing-mbl.jpg");
+}
+.tab5_bg1{
+    background-image: url("../images/handwash-img-mbl.jpg");
+}
+.tab5_bg2{
+    background-image: url("../images/floorcleaner-img-mbl.jpg");
+}
+.tab5_bg3{
+    background-image: url("../images/disihwash-img-mbl.jpg");
+}
+.tab5_bg4{
+    background-image: url("../images/all-purpose-cleaner-img-mbl.jpg");
+}
+.investor-relations {
+  background-image: url("../images/investor-relation-mbl.jpg");
+}
+.csrpage #main-banner .item1 {
+  background-image: url(../images/csrbanner-mbl.jpg);
+}
+.certification img {
+  width: 120px;
+  margin-bottom: 30px;
+}
+.certification {
+  padding: 50px 0px 40px 0px;
+}
+    .c-btm-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-family: metropolis-bold;
+  margin-bottom: 15px;
+}
+   .business-main {
+  width: 100%;
+  padding: 50px 0px;
+  display: inline-block;
+  background-color: #f3f3f3;
+}
+.comapny-sec1 .c-top-text {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.comapny-sec .col-md-6 {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.business-main .comapny-sec h3 {
+  font-size: 25px;
+}
+.comapny-sec h3 {
+  font-size: 25px;
+  font-family: metropolis-bold;
+  padding-bottom: 15px;
+}
+.comapny-sec {
+  height: auto;
+  display: inline-block;
+  position: relative;
+  background-color: #f3f3f3;
+  padding-top: 40px;
+}
+.comp-img {
+  position: relative;
+  right: 0;
+  top: 0;
+  width: 100%;
+  left: 0px;
+  display: block;
+  margin: 0px auto;
+  padding: 0px 30px;
+}
+.c-btm-text {
+  background-color: #000;
+  max-width: 100%;
+  height: 160px;
+  display: inline-block;
+  width: 100%;
+  padding: 20px;
+  margin: 30px auto;
+}
+.c-top-text {
+  padding-right: 0px;
+  display: inline-block;
+  flex-direction: column;
+  justify-content: center;
+  height: auto;
+}
+.c-btm-text {
+
+    background-color: #000;
+    max-width: 100%;
+    margin-left: 0px;
+    height: auto;
+    display: inline-block;
+    align-items: unset;
+    justify-content: space-around;
+    width: 100%;
+    padding: 20px;
+
+}
+    /**/
+    .sec-brand {
+  padding: 50px 0px 50px 0px;
+    }
+    .brand-logo {
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+.sec-brand h4 {
+  font-size: 35px;
+  font-family: metropolis-bold;
+}
+.investRelate {
+  max-width: 100%;
+  display: block;
+  margin: 0px auto;
+}
+.applyForJobI {
+  padding: 20px 0px 50px 0px;
+}
+.withoutbannerpage .aboutsectionAto {
+  padding-top: 140px;
+}
+.banner-btm-text p {
+  font-size: 20px;
+  font-family: metropolis-light;
+  padding-bottom: 30px;
+  text-align: center;
+  line-height: 1.3;
+}
+.m-icons {
+  padding: 15px 0px;
+}
+.mission {
+  display: block;
+ 
+}
+.bannertxt {
+  max-width: 100%;
+}
+.banner-btm-text {
+  padding: 50px 0px;
+}
+.heading-main {
+  font-size: 25px;
+  font-family: metropolis-bold;
+  line-height: 1.3;
+  text-transform: uppercase;
+
+}
+.scroll-text {
+  height: auto;
+  overflow-y: scroll;
+  padding-right: 0;
+  opacity: 1;
+  transition: all.3s ease-in-out;
+}
+.pillar-text {
+  margin: 0px;
+  padding: 15px 0px;
+  transition: all.3s ease-in-out;
+}
+.pillars {
+  padding: 50px 0px 90px 0px;
+}
+.brand-img {
+  margin-top: 30px;
+}
+    .csredsphv p {
+  display: block;
+}
+.rangeBox {
+  padding: 50px 0px;
+}
+.individualBg.removeFlex {
+  display: block;
+  padding: 50px 0px;
+  height: auto;
+}
+.txtBoxs.blackTxt {
+  max-width: 100%;
+  width: 100%;
+  padding: 20px 0px;
+}
+.boxRightAl {
+  margin-left: 0px;
+}
+.insidesafety {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: auto;
+ 
+}
+.safetyTab .nav-tabs {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+  width: 100%;
+  display: inline-flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 10px;
+}
+.safetyTab .nav-tabs > li > a{
+    margin-right:30px;
+}
+.safetyTab .nav-tabs > li:nth-child(1) a {
+  width: auto;
+}
+.safetyTab .nav-tabs > li:nth-child(2) a {
+  width: auto;
+}
+.safetyTab .nav-tabs > li:nth-child(3) a {
+  width:232px;
+}
+.safetyTab .nav-tabs > li:nth-child(4) a {
+  width: auto;
+}
+.safetyTab .nav-tabs > li:nth-child(5) a {
+  width: auto;
+}
+.txtBanner h2 {
+  color: #fff;
+  font-size: 25px;
+  font-family: metropolis-extrabold;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.txtBanner h2 span {
+  display: block;
+  font-family: metropolis-medium;
+  font-size: 16px;
+  text-transform: none;
+  line-height: 1.3;
+}
+.applyForJob h3 {
+  font-size: 25px;
+  font-family: metropolis-bold;
+  line-height: 1;
+}
+.applyForJob {
+  padding: 50px 0px;
+}
+.pageContent p {
+  font-size: 20px;
+  margin-bottom: 25px;
+  line-height: 1.2;
+  font-family: metropolis-light;
+  color: #000000;
+  text-align: center;
+}
+.pageContent {
+  padding: 50px 0px;
+  width: 100%;
+}
+.csrpagesection p {
+  line-height: 1.3;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
+    /**/
+    .menu ul li {
+        padding-right: 10px;
+    }
+
+    .bannertxt h1 {
+      font-size: 25px;
+      line-height: 1.1;
+  }
+  .bannertxt p:first-child {
+      font-size: 16px;
+  }
+  .ppedata {
+      visibility: hidden;
+      width: 320px;
+      background-color: transparent;
+      color: #fff;
+      text-align: center;
+      border-radius: 0px;
+      padding: 0px;
+      position: absolute;
+      z-index: 99;
+      top: -120px;
+      left: 0;
+      margin-left: 0px;
+  }
+  .emergingtxt .ppedata {
+      top: -218px;
+      left: 0;
+      margin-left: 0px;
+  }
+  .craftingtxt .ppedata {
+      top: -184px;
+      left: 0;
+      margin-left: -20px;
+  }
+  .aboutsection {
+      padding: 50px 0px;
+      text-align: center;
+  }
+  .csrpage .aboutsection {
+  padding: 50px 0px 30px 0px;
+  text-align: center;
+}
+.sec-brand2 {
+  background-image: url(../images/lem-bg-mbl.jpg);
+  filter: brightness(70%);
+}
+
+.sec-brand6 {
+  background-image: url(../images/frams-img-mbl.jpg);
+}
+.sec-brand8 {
+  background-image: url(../images/bova-img-mbl.jpg);
+}
+.sec-brand10 {
+  background-image: url(../images/rahmco-img-mbl.jpg);
+}
+.business-banner {
+  background-image: url(../images/business-banner-mbl.jpg);
+}
+
+.productBgImgcareer {
+  background-image: url(../images/banner-career-mbl.jpg);
+}
+.encourageBg{
+    background-image: url("../images/career-in1-mbl.jpg");
+}
+.Downloadpage #main-banner .item {
+  background-image: url(../images/downlaodbanner-mbl.jpg);
+}
+.abt-banner #main-banner .item1 {
+  background-image: url(../images/upholstery-banner-mbl.jpg);
+}
+.abt-banner #main-banner .item2 {
+  background-image: url(../images/abt-banner2-mbl.jpg);
+}
+.sustainablity {
+  background-image: url(../images/sustain-bg-mbl.jpg);
+}
+.csredsphv {
+  padding: 15px 15px;
+  margin: 0px;
+    margin-bottom: 0px;
+  margin-bottom: 40px;
+  min-height: auto;
+}
+.csredsphv h4 {
+  font-size: 20px;
+  font-family: metropolis-bold;
+  padding-bottom: 5px;
+}
+  .abtxt {
+      padding: 0px;
+      font-size: 20px;
+      line-height: 1.2;
+      font-family: metropolis-light;
+      text-align: center;
+      max-width: 100%;
+      margin: auto;
+  }
+  .ourbusiness .item1
+  {
+    background-image: url(../images/mobile-our-business01.jpg);
+}
+.ourbusiness .item2
+{
+    background-image: url(../images/mobile-our-business02.jpg);
+}
+.ourbusiness .item3
+{
+    background-image: url(../images/mobile-our-business03.jpg);
+}
+.ourbusiness .item4
+{
+    background-image: url(../images/mobile-our-business04.jpg);
+}
+.ourbusiness .item5
+{
+    background-image: url(../images/mobile-our-business05.jpg);
+}
+.offer-slider-box {
+  border: 1px solid #fff;
+  width: 60px;
+  height: 135px;
+  position: absolute;
+  bottom: 12%;
+  margin: auto;
+  right: 17%;
+  z-index: 9;
+}
+.slider-counter {
+  font-size: 16px;
+  text-align: center;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  height: 45px;
+  padding-top: 10px;
+  color: #fff;
+}
+.cursorright {
+
+    height: 45px;
+    position: relative;
+}
+.offer-slider-box {
+  border: 1px solid #fff;
+  width: 60px;
+  height: 135px;
+  position: absolute;
+  bottom: auto;
+  margin: auto;
+  right: 30px;
+  z-index: 9;
+  top: 40px;
+}
+.cursorleft {
+  height: 45px;
+  position: relative;
+}
+.awardsIns {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 50px 35px;
+  width: 100%;
+  min-height: 420px;
+}
+.awardsIns h4 {
+  font-size: 18px;
+  color: #fff;
+  font-family: metropolis-bold;
+  margin-top: 25px;
+}
+.awardsIns img {
+  width: auto;
+}
+.awardsSec {
+    background-image: url("../images/awards-bg-m.jpg");
+    min-height: 653px;
+    padding: 50px 0px;
+}
+.factIns {
+  margin-bottom: 35px;
+  padding-right: 0px;
+}
+.ourfactsSec .allHeads h3 {
+  margin-bottom: 50px;
+}
+.ourfactsSec {
+  background-image: url("../images/fast-facts-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 662px;
+  padding: 50px 0px 25px 0px;
+}
+.mapLeft {
+  max-width: 100%;
+  margin-bottom: 35px;
+}
+.mapImage {
+  padding: 0;
+}
+.ourpresenceSec {
+  width: 100%;
+  padding: 50px 0px;
+}
+.allHeads h3 {
+  font-size: 25px;
+  font-family: metropolis-bold;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.manufactoringSec {
+  background-image: url("../images/manufacturing-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 662px;
+  padding: 50px 0px;
+}
+.certificationSec {
+  width: 100%;
+  padding: 50px;
+}
+.certificationSec .allHeads h3 {
+  font-size: 25px;
+}
+.footxts {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.footer-bg ul li a {
+  font-size: 16px;
+  color: #fff;
+  font-family: metropolis-medium;
+}
+.footer-bg ul li {
+  padding-bottom: 5px;
+}
+.footer-right-side {
+  margin-left: -15px;
+  margin-top: 25px;
+}
+.quick-linksa-btm {
+  margin-left: -15px;
+}
+.socilstxt {
+  margin-left: -15px;
+  margin-top: 15px;
+}
+.flort {
+  float: left;
+}
+.footer-btm {
+  border-top: 0px solid #1d1d1d;
+  background-color: #00a858;
+  margin-top: 0px;
+  padding: 10px 0px 0px 0px;
+}
+.boxes {
+  padding: 20px;
+  width: 50%;
+}
+#header .navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+}
+.ham-icon1 img {
+  float: right;
+  margin-top: 25px;
+}
+.sticky {
+  height: 72px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #fff;
+  transition: all ease .3s;
+  padding: 0px;
+  border-bottom: none;
+}
+.ppetxt, .craftingtxt, .emergingtxt {
+    position: relative;
+    display: inline-block;
+}
+}
+
+@media (max-width: 991px) {
+/*  mysidenav  */
+.menutxt .blueham {
+    display: none;
+}
+.cross-btn {
+    text-align: right;
+    padding: 16px 14px 0px 0px;
+    color: #fff;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.menu {
+    display: none;
+}
+
+.ham-icon {
+    float: right;
+    display: block;
+}
+
+.my-sidenav {
+    width: 0px;
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    z-index: 999999999;
+    height: 100vh;
+    max-width: 0px;
+    width: 100%;
+    background-color: #00a858;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+}
+
+.my-sidenav>ul {
+    padding: 0px 20px 0px;
+}
+
+.my-sidenav>ul>li>ul {
+    margin-top: 0px;
+    display: none;
+}
+
+.my-sidenav ul.submenu li ul.submenu {
+    display: none;
+    position: static;
+    width: 100%;
+}
+
+.my-sidenav ul {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.my-sidenav ul li {
+    border-bottom: 1px solid #fff;
+    padding: 15px 0px;
+}
+
+.my-sidenav>ul>li>ul>li {
+    border-bottom: 1px solid #fff;
+    padding: 10px 0px;
+    position: relative;
+}
+
+.my-sidenav>ul>li>ul>li::after {
+    content: '';
+    position: absolute;
+    background-image: url(../images/whitepdficon.png);
+    width: 12px;
+    height: 12px;
+    right: 0px;
+    top: 15px;
+}
+
+.my-sidenav .mbwhowearemenu li::after {
+    display: none;
+}
+
+.my-sidenav>ul>li>ul>li:last-child,
+.my-sidenav ul.submenu li ul.submenu li:last-child {
+    border-bottom: 0px;
+}
+
+.my-sidenav ul.submenu li ul.submenu li {
+    border-bottom: 1px solid #fff;
+    padding: 10px 10px;
+}
+
+.my-sidenav ul.submenu li ul.submenu li a {
+    color: #fff;
+    font-size: 16px;
+}
+
+.cross-btn1 {
+    text-align: right;
+    padding: 16px 14px 0px 0px;
+    color: #fff;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.my-sidenav .submenu-indicator-minus .submenu-indicator {
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.my-sidenav .submenu-indicator {
+    font-size: 30px;
+    position: absolute;
+    line-height: 25px;
+    right: 15px;
+}
+
+.my-sidenav>ul>li>a {
+    color: #fff;
+    font-size: 18px;
+    display: block;
+    font-family: metropolis-bold;
+}
+
+.my-sidenav>ul>li>ul>li>a {
+    color: #fff;
+    font-size: 16px;
+    font-family: metropolis-regular;
+}
+
+.my-sidenav>ul>li>ul>li.menu-drp1>a {
+    font-family: metropolis-regular;
+    font-size: 16px;
+}
+
+.my-sidenav>ul>li>ul>li>a img {
+    padding-right: 10px;
+    float: right;
+}
+/**/
+
+}
+
+
+@media (max-width: 768px) {
+    .brand-numHeight {
+    height: auto;
+}
+    .colwidth .col-md-4:nth-child(1) {
+    width: auto;
+}
+    .colwidth .col-md-4:nth-child(2) {
+    width: auto;
+    padding-left: 15px;
+}
+    .insideEvent {
+       margin-bottom: 55px!important;
+}
+.insideEvent.insideEventRmv {
+    margin-bottom: 0px!important;
+}
+
+    .MediaTestimonial.owl-carousel.owl-theme .owl-dots {
+    display: none;
+}
+    .allIndiR {
+  width: 100%;
+}
+.gapRightB {
+  padding-right: 0px;
+  padding-left: 0px;
+  padding: 30px 15px;
+}
+.allIndiL {
+  width: 100%;
+}
+.allIndiB h3 {
+  font-size: 25px;
+  color: #00a858;
+  font-family: metropolis-bold;
+  line-height: 30px;
+  margin-bottom: 15px;
+}
+.gapLeftB {
+  padding-right: 0px;
+  padding-left: 0px;
+  padding: 30px 15px;
+}
+.allIndiB {
+  display: unset;
+}
+.maiLinedraw .allIndiB:nth-child(1) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(2) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(3) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(4) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(5) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(6) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(7) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(8) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(9) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(10) {
+  margin-bottom: 30px;
+}
+.maiLinedraw .allIndiB:nth-child(11) {
+  margin-bottom: 30px;
+}
+/*.shape_bg_1::after, .shape_bg_2::after, .shape_bg_3::after, .shape_bg_4::after, .shape_bg_5::after, .shape_bg_6::after, .shape_bg_7::after, .shape_bg_8::after, .shape_bg_9::after, .shape_bg_10::after, .shape_bg_11::after {*/
+/*    display:none;*/
+/*}*/
+    .brand-numhgt {
+    height: auto;
+}
+    .sec-brand4b {
+    background-image: url(../images/mobile-mossop-img.png)!important;
+}
+    .sec-brand4a {
+    background-image: url(../images/mobile-drawtex-img.png)!important;
+}
+    
+    .sec-brand4way{
+        background-image: url(../images/mobile-wayne-img.png)!important;
+    }
+/*    .sec-brand4 {*/
+/*    background-image: url(../images/mobile-drawtex-img.png)!important;*/
+/*}*/
+    .brand-num{
+        border-right: none;
+    }
+   
+    .insidesafetypatch{
+        filter:brightness(62%);
+    }
+     .tab3_bg1{
+       background-image: url(../images/sports-goods-mobile.png);
+    }
+    
+    #main-banner .item4
+    {
+        background-image: url(../images/mobile-banner04.jpg);
+    }
+      #main-banner .item3
+    {
+        background-image: url(../images/mobile-banner03.jpg);
+    }
+    #main-banner .item2
+    {
+        background-image: url(../images/mobile-banner02.jpg);
+    }
+    .manufactoringSec{
+    background-image: url(../images/home-mobile-section5.jpg);
+      }
+    #main-banner .item1 {
+    background-image: url(../images/mobile-banner01.jpg);
+    }
+    .abt-banner #main-banner .item1 {
+    background-image: url(../images/about-mobile-banner.jpg);
+    }
+    .company-banner {
+  background-image: url(../images/company-banner-mbl.jpg)!important;
+}
+    .policy-banner{
+        background-image: url(../images/mobile-terms-condition-banner.jpg);
+    }
+    .brand-banner{
+        background-image: url(../images/brand-mobile-banner.jpg);
+    }
+      #main-banner .containerAbout{
+        align-items: center!important;
+    padding-top: 120px!important;
+    }
+    .productBgImg{
+         background-image: url(../images/product-mobile-banner01.jpg);
+    }
+    .business-bannerspcRemove .container{
+        
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 32px;
+}
+.business-bannerspcRemove .col-md-12{
+        
+    padding-right: 0px;
+    padding-left: 0px;
+   
+}
+
+    .comapny-seccraft {
+    padding-top: 0px;
+    }
+  
+    
+    .certificateLogos .indLogo img {
+    width: 100%;
+    height: 80px;
+    max-width: 180px;
+    }
+    .sec-brand-story .heading-main{
+        padding-bottom: 20px;
+    }
+   
+    #main-banner .container {
+  
+    align-items: initial;
+    
+    padding-top: 160px;
+}
+
+.careerSec{
+    background-image: url(../images/home-mobile-section6.jpg);
+    padding-top:80px;
+}
+
+  /**/
+.allIndiL.shape_bg_1 img {
+  height: 308px;
+  margin-bottom: 121px;
+}
+.shape_bg_1::after {
+  background-image: url("../images/shape-img1.png");
+  width: 67px;
+  min-height: 438px;
+  right: 40%;
+}
+.maiLinedraw .allIndiB:nth-child(2) img{
+  margin-bottom: 141px;
+}
+.shape_bg_2::after {
+  background-image: url("../images/shape-img2.png");
+  width: 142px;
+  min-height: 438px;
+  right: 29%;
+  top: -454px;
+}
+.maiLinedraw .allIndiB:nth-child(3) img{
+  margin-bottom: 141px;
+}
+.shape_bg_3::after {
+  background-image: url("../images/shape-img3.png");
+  width: 86px;
+  min-height: 438px;
+  right: 37%;
+  top: 0px;
+}
+.maiLinedraw .allIndiB:nth-child(4) img{
+  margin-bottom: 141px;
+}
+.shape_bg_4::after {
+  background-image: url("../images/shape-img4.png");
+  width: 86px;
+  min-height: 438px;
+  right: 39%;
+  top: -457px;
+}
+.maiLinedraw .allIndiB:nth-child(5) img{
+  margin-bottom: 121px;
+}
+.shape_bg_5::after {
+  background-image: url("../images/shape-img5.png");
+  width: 64px;
+  min-height: 438px;
+  right: 41%;
+  top: 0px;
+}
+.maiLinedraw .allIndiB:nth-child(6) img{
+  margin-bottom: 121px;
+}
+.shape_bg_6::after {
+  background-image: url("../images/shape-img6.png");
+  width: 115px;
+  min-height: 438px;
+  right: 34%;
+  top: -437px;
+}
+.maiLinedraw .allIndiB:nth-child(7) img{
+  margin-bottom: 121px;
+}
+.shape_bg_7::after {
+  background-image: url("../images/shape-img7.png");
+  width: 93px;
+  min-height: 438px;
+  right: 38%;
+  top: 0px;
+}
+.maiLinedraw .allIndiB:nth-child(8) img{
+  margin-bottom: 121px;
+}
+.shape_bg_8::after {
+  background-image: url("../images/shape-img8.png");
+  width: 83px;
+  min-height: 438px;
+  right: 39%;
+  top: -437px;
+}
+.maiLinedraw .allIndiB:nth-child(9) img{
+  margin-bottom: 121px;
+}
+.shape_bg_9::after {
+  background-image: url("../images/shape-img9.png");
+  width: 78px;
+  min-height: 438px;
+  right: 38%;
+  top: 0px;
+}
+.maiLinedraw .allIndiB:nth-child(10) img{
+  margin-bottom: 121px;
+}
+.shape_bg_10::after {
+  background-image: url("../images/shape-img10.png");
+  width: 92px;
+  min-height: 438px;
+  right: 36%;
+  top: -436px;
+}
+.shape_bg_12::after {
+  background-image: url(../images/shape-img12.png);
+    width: 92px;
+    min-height: 345px;
+    right: 36%;
+    top: -320px;
+}
+.maiLinedraw .allIndiB:nth-child(11) img{
+  margin-bottom: 121px;
+}
+.shape_bg_11::after {
+      background-image: url(../images/shape-img11.png);
+    width: 92px;
+    min-height: 390px;
+    right: 37%;
+    top: 6px;
+}
+/**/  
+    
+  
+    .awardsSlider .owl-stage-outer {
+      overflow: visible;
+  }
+  header {
+    padding: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    width: 100%;
+}
+.homePage{
+    overflow-x: hidden!important;
+}
+.indLogo
+{
+    border-right:0px;
+    text-align: center;
+}
+.ppetxt, .craftingtxt, .emergingtxt
+{
+    position: inherit;
+}
+.ppedata,.craftingtxt .ppedata,.emergingtxt .ppedata
+{
+    top:30px;
+    right:0px;
+    margin:auto;
+}
+}
