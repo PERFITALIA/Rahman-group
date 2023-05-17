@@ -1,6 +1,6 @@
 <?php
-    define('usrnam','root');
-    define('pwd','');
+    define('usrnam','rdx');
+    define('pwd','Rdx@#1036');
     //define('dbname','demouser_triveni');
     define('dbname','coolkaki_rahman');
     $mysqli = mysqli_connect("localhost",usrnam,pwd,dbname);
