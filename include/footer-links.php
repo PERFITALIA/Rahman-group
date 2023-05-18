@@ -11,7 +11,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+91-98395 10805", // WhatsApp number
+            whatsapp: "+91-9919114888", // WhatsApp number
             call_to_action: "Message us", // Call to action
             button_color: "#FF6550", // Color of button
             position: "right", // Position may be 'right' or 'left'
