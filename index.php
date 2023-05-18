@@ -803,6 +803,7 @@
               });
               
 
+
                 $(".annual-select-o").change(function() {      
                   var detail_1 = $('.annual-select-o option:selected').attr('data-details');
                   $('.detailsData_1').text(detail_1);
