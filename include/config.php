@@ -1,8 +1,8 @@
 <?php
-    define('usrnam','root');
-    define('pwd','');
+    define('usrnam','rdx');
+    define('pwd','Rdx@#1036');
     //define('dbname','demouser_triveni');
-    define('dbname','coolkaki_rahman');
+    define('dbname','rahman-group');
     $mysqli = mysqli_connect("localhost",usrnam,pwd,dbname);
     if (mysqli_connect_errno()) {
       echo "Failed to connect to MySQL: " . mysqli_connect_error();
