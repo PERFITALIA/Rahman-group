@@ -358,114 +358,83 @@
             <div class="selectMap">
                <select class="form-control annual-select-new">
                   <option value="India" data-title="Corporate Office :" data-subtitle="<b>Rahman Industries Limited</b> <br>
-                     184/167 Wajidpur, Jajmau Kanpur – 208010 India<br>
+                     184/167 Wajidpur, Jajmau Kanpur – 208010, India<br>
                      E-Mail: <a href='mailto:info@rahman-group.com' target='_blank'>info@rahman-group.com</a><br>
                      Tel: +91-7392964989-990<br>
                      <a href='http://www.rahman-group.com' target='_blank'>www.rahman-group.com </a><br>
                      <b>Safetix Protective Equipments (P) Ltd.</b><br>
-                     Plot No. 19, Sector 90 Noida Gautam Budh Nagar – 201304
-                     India<br>
+                     Plot No. 19, Sector 90 Noida Gautam Budh Nagar – 201304, India<br>
                      E-Mail: <a href='mailto:info@perfitalia.com' target='_blank'>info@perfitalia.com</a><br>
                      Tel: +91-7290048417-18<br>
                      <a href='http://www.perf-safety.in' target='_blank'>www.perf-safety.in</a><br>
                      <a href='http://www.peritalia.com' target='_blank'> www.peritalia.com</a> <br>
                      <b>Icon Design</b> <br>
-                     184/167 Wajidpur, Jajmau
-                     Kanpur – 208010
-                     India <br>
+                     184/167 Wajidpur, Jajmau Kanpur – 208010, India <br>
                      Email: <a href='mailto:info@icondesigns.in' target='_blank'>info@icondesigns.in</a> <br>
                      Tel: +91-7392964988 <br>
                      <a href='http://www.icondesigns.in' target='_blank'>www.icondesigns.in</a>
-
-
                      "  data-image="images/india-map-img2.png">India</option>
-                     <!---->
+
                      <option  value="other country"  data-title="Corporate Office :" data-subtitle="<b>BBF Safety Group (Pty) Ltd.</b><br>
-                        37 Gillitts Road, Pinetown
-                        3610, South Africa<br>
-                        
+                        37 Gillitts Road, Pinetown 3610, South Africa<br>                        
                         E-Mail: <a href='mailto:info@bbfsafety.com' target='_blank'>info@bbfsafety.com</a><br>
                         Tel +27 87 057 7770<br>
                         <a href='' target='_blank'>www.bbfsafety.co.za</a> <br>
                         <b>Mossop Western Leathers (Pty) Ltd.</b> <br>
-                        Blignaut Street, Wellington,  
-                        37654, Western Cape Province,
-                        South Africa  <br>
-                        
+                        Blignaut Street, Wellington, 37654, Western Cape Province, South Africa<br>                        
                         E-Mail: <a href='mailto:sales@mossop.co.za' target='_blank'>sales@mossop.co.za</a><br>
                         Tel: +27 21 864 9300 <br>
                         <a href='www.mossop.co.za' target='_blank'>www.mossop.co.za</a> <br>
-
                         <b>Beier Drawtex Healthcare (Pty) Ltd.</b> <br>
-                        37 Gillitts Road, Pinetown
-                        3610, South Africa <br>
-                        
+                        37 Gillitts Road, Pinetown 3610, South Africa <br>                        
                         E-Mail : <a href='mailto:info@drawtex.com' target='_blank'>info@drawtex.com </a><br>
                         Tel:  +27 (0) 31 710 0400 <br>
                         <a href='www.drawtex.com' target='_blank'>www.drawtex.com</a>
-
-
-
                         " data-para=""  data-image="images/south-africa-map-img1.png">South Africa</option>
 
                         <option  value="France"  data-title="Corporate Office :" data-subtitle=" <b>Lemaitre Sécurité SAS</b>
-                           17 rue de Bitschhoffen 
-                           67350 LA WALCK – VAL DE MODER, France <br>
-                           
+                           17 rue de Bitschhoffen 67350 LA WALCK – VAL DE MODER, France <br>                           
                            E-Mail: <a href='mailto:info@lemaitre-securite.com' target='_blank'>info@lemaitre-securite.com </a> <br>
                            Tel  +33 (0)3 88 72 28 80  <br>
                            <a href='' target='_blank'>www.lemaitre-securite.com" data-para=""  data-image="images/france-map-img5.png">France</option>
 
                             <option  value="Germany"  data-title="Corporate Office :" data-subtitle="<b>LEMAITRE Deutschland GmbH</b> <br>
-                              Verler Straße 477
-                              33334 Gütersloh, Germany <br>
-                              
-                              <a href='mailto:verkauf@lemaitre-deutschland.de' target='_blank'>verkauf@lemaitre-deutschland.de </a> <br>
+                              Verler Straße 477 33334 Gütersloh, Germany <br>                              
+                              E-Mail: <a href='mailto:verkauf@lemaitre-deutschland.de' target='_blank'>verkauf@lemaitre-deutschland.de </a> <br>
                               Tel: 05241 / 70839-0 <br>" data-para=""  data-image="images/germany-map-img9.png">Germany</option>
 
                               <option  value="other country"  data-title="Corporate Office :" data-subtitle="<b>Lemaitre Safety Products s.r.o.</b> <br>
-                                 Sídlo společnosti: Nám.14.října 1307/2, 150 00 
-                                 Praha 5-Smíchov, Czech Republic <br>
-                                 
-                                 
+                                 Sídlo společnosti: Nám.14.října 1307/2, 150 00  Praha 5-Smíchov, Czech Republic <br>
                                  E-Mail: <a href='mailto:info@lemaitre.cz' target='_blank'>info@lemaitre.cz </a><br>
                                  Tel: +420 313105686 <br>
                                  Fax: +420 313105687 <br>
                                  <a href='www.lemaitre.cz' target='_blank'>www.lemaitre.cz</a>
-
-
-
                                  " data-para=""  data-image="images/czech-republic-map-img8.png">Czech Republic</option>
 
-                                 <option  value="other country"  data-title="Corporate Office :" data-subtitle="<b>LEMAITRE BELGIQUE SPRL</b> <br>
-                                    Avenue Rogier, 28, 3B
-                                    4000 Liège, Belgium <br>
-                                    E-Mail:<a href='mailto:' target='_blank'> pvanolmen@lemaitre-securite.com </a>
+                                 <option  value="Belguim"  data-title="Corporate Office :" data-subtitle="<b>LEMAITRE BELGIQUE SPRL</b> <br>
+                                    Avenue Rogier, 28, 3B 4000 Liège, Belgium <br>
+                                    E-Mail: <a href='mailto:' target='_blank'> pvanolmen@lemaitre-securite.com </a>
                                     " data-para=""  data-image="images/belguim-map-img6.png">Belguim</option>
 
-                                    <option value="other country"  data-title="Corporate Office :" data-subtitle="<b>Francisco Mendi SL</b> <br>
-                                       Polígono La Variante Calle Monte la Pila, 
-                                       12 26140 Lardero – La Rioja, 
-                                       UAE <br>
-                                       
-                                       E-Mail: <a href='mailto:info@grupomendi.com' target='_blank'>info@grupomendi.com</a> <br>
+                                    <option value="Spain"  data-title="Corporate Office :" data-subtitle="<b>Francisco Mendi SL</b> <br>
+                                       Polígono La Variante Calle Monte la Pila, <br>
+                                       12 26140 Lardero – La Rioja, Spain <br>                                       
+                                       E-Mail: <a href='mailto:info@grupomendi.com' target='_blank'>info@grupomendi.com</a><br>
                                        Tel: +34 941245199 <br>
                                        <a href='www.grupomendi.com' target='_blank'>www.grupomendi.com</a>
                                        " data-para=""  data-image="images/Israel.png">Spain</option>
+                                       
+
 
                                        <option  value="Italy"  data-title="Corporate Office :" data-subtitle="<b>Rahmco SRL</b> <br>
-                                          Via Del Commercio 19 
-                                          ARZIGNANO VI
-                                          Italy<br>
+                                          Via Del Commercio 19  ARZIGNANO VI, Italy<br>
                                           
                                           E-Mail: <a href='mailto:info@rahmco.com' target='_blank'>info@rahmco.com</a><br>
                                           Tel: +39 0444 453097<br>
-                                          <a href='' target='_blank'>www.rahmco.com</a> <br>
+                                          <a href='www.rahmco.com' target='_blank'>www.rahmco.com</a> <br>
 
                                           <b>Perf Italia SRL</b> <br>
-                                          Via Del Commercio 19
-                                          ARZIGNANO VI
-                                          Italy<br>
+                                          Via Del Commercio 19 ARZIGNANO VI, Italy<br>
                                           
                                           E-Mail: <a href='mailto:info@perf-safety.com' target='_blank'>info@perf-safety.com</a><br>
                                           Tel: +39 0883 506663<br>
@@ -474,58 +443,46 @@
 
                                           " data-para=""  data-image="images/italy-map-img4.png">Italy</option>
 
-                                          <option  value="other country"  data-title="Corporate Office :" data-subtitle="<b>Kunshan Protec Safety Products Co. Ltd. China</b><br> 
-                                             Add: No.16 Jinfa Road, Jinxi Town, Kunshan City, 
-                                             Jiangsu Province, China<br>
-                                             
+                                          <option  value="China"  data-title="Corporate Office :" data-subtitle="<b>Kunshan Protec Safety Products Co. Ltd. China</b><br> 
+                                             Add: No.16 Jinfa Road, Jinxi Town, Kunshan City, Jiangsu Province, China<br>                                             
                                              E-Mail: <a href='mailto:ripple@protec-safety.com' target='_blank'>ripple@protec-safety.com</a> <br>
                                              Tel: +86-512-50301310 <br>
                                              " data-para=""  data-image="images/china.png">China</option>
 
 
 
-                                             <option  value="other country"  data-title="Corporate Office :" data-subtitle="<b>SAFETIX MID EAST FZE</b> <br>
-                                                Plot G1 007, SAIF Zone
-                                                P. O. Box No. 8898
-                                                Sharjah,  UAE<br>
-                                                United Arab Emirates<br>
+                                             <option  value="UAE"  data-title="Corporate Office :" data-subtitle="<b>SAFETIX MID EAST FZE</b> <br>
+                                                Plot G1 007, SAIF Zone P. O. Box No. 8898 Sharjah,  UAE<br>
                                                 E-Mail: <a href='mailto:support-admin@safetix-securite.com' target='_blank'>support-admin@safetix-securite.com</a><br>
 
                                                 " data-para=""  data-image="images/uae-map-img3.png">UAE</option>
 
-
-
                                                 <option  value="UK"  data-title="Corporate Office :" data-subtitle="<b>Performance Brands Ltd.</b><br>
-                                                   The Pavilion Bowcliffe Hall
-                                                   Bramham, Wetherby LS23 6LP, UK<br>
-                                                   
-                                                   <a href='mailto:sales@performance-brands.co.uk' target='_blank'>sales@performance-brands.co.uk</a><br>
+                                                   The Pavilion Bowcliffe Hall Bramham, Wetherby LS23 6LP, UK<br>                                                   
+                                                   E-Mail: <a href='mailto:sales@performance-brands.co.uk' target='_blank'>sales@performance-brands.co.uk</a><br>
                                                    Tel # 01134575938<br>
                                                    " data-para=""  data-image="images/uk-map-img7.png">UK</option>
+
                                                 </select>
                                              </div>
+
                                              <div class="allAddress">
                                                 <div class="mapContents">
                                                    <h4 class="wow fadeInUp titleTxt">Corporate Office :</h4>
                                                    <span class="subtitleTxt">
                                                       <b>Rahman Industries Limited</b> <br>
-                                                      184/167 Wajidpur, Jajmau
-                                                      Kanpur – 208010 
-                                                      India<br>
+                                                      184/167 Wajidpur, Jajmau Kanpur – 208010,  India<br>
                                                       E-Mail: <a href='mailto:info@rahman-group.com' target='_blank'>info@rahman-group.com</a><br>
                                                       Tel: +91-7392964989-990<br>
                                                       <a href='http://www.rahman-group.com' target='_blank'>www.rahman-group.com </a><br>
                                                       <b>Safetix Protective Equipments (P) Ltd.</b><br>
-                                                      Plot No. 19, Sector 90 Noida Gautam Budh Nagar – 201304
-                                                      India<br>
+                                                      Plot No. 19, Sector 90 Noida Gautam Budh Nagar – 201304,  India<br>
                                                       E-Mail: <a href='mailto:info@perfitalia.com' target='_blank'>info@perfitalia.com</a><br>
                                                       Tel: +91-7290048417-18<br>
                                                       <a href='http://www.perf-safety.in' target='_blank'>www.perf-safety.in</a><br>
                                                       <a href='http://www.peritalia.com' target='_blank'> www.peritalia.com</a> <br>
                                                       <b>Icon Design</b> <br>
-                                                      184/167 Wajidpur, Jajmau
-                                                      Kanpur – 208010
-                                                      India <br>
+                                                      184/167 Wajidpur, Jajmau Kanpur – 208010, India <br>
                                                       Email: <a href='mailto:info@icondesigns.in' target='_blank'>info@icondesigns.in</a> <br>
                                                       Tel: +91-7392964988 <br>
                                                       <a href='http://www.icondesigns.in' target='_blank'>www.icondesigns.in</a>
