@@ -801,6 +801,7 @@
                  $('.paraTxt').html(itemPara);
 
               });
+              
 
                 $(".annual-select-o").change(function() {      
                   var detail_1 = $('.annual-select-o option:selected').attr('data-details');

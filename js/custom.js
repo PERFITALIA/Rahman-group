@@ -65,6 +65,7 @@ if(windowWidth <= 991){
 });
 }
 
+
 $(".my-sidenav").accordion();
 collectMapSvg();
 
