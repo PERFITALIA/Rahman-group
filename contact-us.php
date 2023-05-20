@@ -8,9 +8,9 @@
       <meta name="description" content="The Rahman Group has a present across India and the globe. We welcome stakeholders to connect with us through physical channels as well as on social media.">
       <meta property="og:title" content="" />
       <meta property="og:description" content="The Rahman Group has a present across India and the globe. We welcome stakeholders to connect with us through physical channels as well as on social media." />
-      <meta property="og:image" content="images/logo.png" />
+      <meta property="og:image" content="images/logo-og.png" />
       <meta name="twitter:title" content="">
-      <meta property="twitter:image" content="images/logo.png" />
+      <meta property="twitter:image" content="images/logo-og.png" />
       <meta name="twitter:description" content="The Rahman Group has a present across India and the globe. We welcome stakeholders to connect with us through physical channels as well as on social media.">
       <?php  require("include/header-link.php"); ?>
    </head>

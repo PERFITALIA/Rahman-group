@@ -8,9 +8,9 @@
    <meta name="description" content="Rahman Group is a leader in the global personal and occupational protection equipment industry with a strong presence in premium leather and leather products, sportswear, heathcare solutions, etc.">
    <meta property="og:title" content="" />
    <meta property="og:description" content="Rahman Group is a leader in the global personal and occupational protection equipment industry with a strong presence in premium leather and leather products, sportswear, heathcare solutions, etc." />
-   <meta property="og:image" content="images/logo.png" />
+   <meta property="og:image" content="images/logo-og.png" />
    <meta name="twitter:title" content="">
-   <meta property="twitter:image" content="images/logo.png" />
+   <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="Rahman Group is a leader in the global personal and occupational protection equipment industry with a strong presence in premium leather and leather products, sportswear, heathcare solutions, etc.">
    <?php  require("include/header-link.php"); ?>
 </head>

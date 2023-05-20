@@ -8,9 +8,9 @@
  <meta name="description" content="Rahman Group is a global conglomerate with offices, R&D centres, and manufacturing facilities in India, Spain, Italy, France, China, South Africa, and the UAE.">
  <meta property="og:title" content="" />
  <meta property="og:description" content="Rahman Group is a global conglomerate with offices, R&D centres, and manufacturing facilities in India, Spain, Italy, France, China, South Africa, and the UAE." />
- <meta property="og:image" content="images/logo.png" />
+ <meta property="og:image" content="images/logo-og.png" />
  <meta name="twitter:title" content="">
- <meta property="twitter:image" content="images/logo.png" />
+ <meta property="twitter:image" content="images/logo-og.png" />
  <meta name="twitter:description" content="Rahman Group is a global conglomerate with offices, R&D centres, and manufacturing facilities in India, Spain, Italy, France, China, South Africa, and the UAE.">
  <?php  require("include/header-link.php"); ?>
 </head>

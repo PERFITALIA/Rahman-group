@@ -8,9 +8,9 @@
    <meta name="description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design.">
    <meta property="og:title" content="" />
    <meta property="og:description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design." />
-   <meta property="og:image" content="images/logo.png" />
+   <meta property="og:image" content="images/logo-og.png" />
    <meta name="twitter:title" content="">
-   <meta property="twitter:image" content="images/logo.png" />
+   <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design.">
    <?php  require("include/header-link.php"); ?>
 </head>
