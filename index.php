@@ -5,7 +5,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <title>Rahman Group Home</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
-   <meta name="description" content="It’s been an exciting journey this far. Alongside a strong presence in manufacturing durable safety footwear, personal protective equipment (PPE) workwear, leather gloves, safety helmets, and army garments.">
+   <meta name="description" content="We are specialists in the manufacture of leather, upholstery for furniture and automotive, personal protective and occupational safety equipment for worksites.">
 
    <meta property="og:title" content="" />
    <meta property="og:description" content="" />
