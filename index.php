@@ -6,10 +6,13 @@
    <title>Rahman Group Home</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="It’s been an exciting journey this far. Alongside a strong presence in manufacturing durable safety footwear, personal protective equipment (PPE) workwear, leather gloves, safety helmets, and army garments.">
+
    <meta property="og:title" content="" />
    <meta property="og:description" content="" />
    <meta name="twitter:title" content="">
    <meta name="twitter:description" content="">
+   <meta property="og:image" content="images/logo-og.png" />   
+   <meta property="twitter:image" content="images/logo-og.png" />
    <?php  require("include/header-link.php"); ?>
 </head>
 <body class="homePage mainHome">
@@ -758,7 +761,7 @@
                  $('.paraTxt').html(itemPara);
 
               });
-              
+
 
 
                 $(".annual-select-o").change(function() {      
