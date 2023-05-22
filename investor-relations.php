@@ -17,6 +17,7 @@ ini_set('display_errors', '1');
    <meta property="og:description" content="We thank our investors for their support and encouragement and reward them with growth, expansion and returns." />
    <meta property="og:image" content="images/logo-og.png" />
    <meta name="twitter:title" content="">
+   
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="We thank our investors for their support and encouragement and reward them with growth, expansion and returns.">
    <?php  require("include/header-link.php"); ?>

@@ -14,6 +14,7 @@
    <meta name="twitter:description" content="Rahman Group is a leader in the global personal and occupational protection equipment industry with a strong presence in premium leather and leather products, sportswear, heathcare solutions, etc.">
    <?php  require("include/header-link.php"); ?>
 </head>
+
 <body class="homePage">
    <?php  require("include/header.php"); ?>
    <div class="brand-banner business-banner business-bannerspcRemove">

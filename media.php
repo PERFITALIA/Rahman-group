@@ -10,6 +10,7 @@
    <meta property="og:description" content="We keep our stakeholders updated about events and activities in the group as well as information related to the domains in which we are present." />
    <meta property="og:image" content="images/logo-og.png" />
    <meta name="twitter:title" content="">
+   
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="We keep our stakeholders updated about events and activities in the group as well as information related to the domains in which we are present.">
    <?php  require("include/header-link.php"); ?>
