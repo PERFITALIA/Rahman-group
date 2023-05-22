@@ -6,10 +6,11 @@
    <title>Rahman Group Careers</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="Rahman Group offers exciting career opportunities in a range of domains from sales & marketing, production & sourcing to finance and HR.">
-   <meta property="og:image" content="images/logo.png" />
+   <meta property="og:image" content="images/logo-og.png" />
    <meta property="og:title" content="" />
      <meta property="og:description" content="Rahman Group offers exciting career opportunities in a range of domains from sales & marketing, production & sourcing to finance and HR." />
-   <meta property="twitter:image" content="images/logo.png" />
+   <meta property="twitter:image" content="images/logo-og.png" />
+   
    <meta name="twitter:title" content="">
    <meta name="twitter:description" content="Rahman Group offers exciting career opportunities in a range of domains from sales & marketing, production & sourcing to finance and HR.">
    

@@ -8,9 +8,10 @@
    <meta name="description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate.">
    <meta property="og:title" content="" />
    <meta property="og:description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate." />
-   <meta property="og:image" content="images/logo.png" />
+   <meta property="og:image" content="images/logo-og.png" />
    <meta name="twitter:title" content="">
-   <meta property="twitter:image" content="images/logo.png" />
+   
+   <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate.">
    <?php  require("include/header-link.php"); ?>
 </head>
