@@ -3,13 +3,13 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <title>Rahman Group Products</title>
-   <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
+   <title>Rahman Group - Products</title>
+   
    <meta name="description" content="Safety footwear, protection equipment, gloves, helmets, masks, eye and ear protection, all conform to supreme quality and design with durability and comfort.">
-   <meta property="og:title" content="Rahman Group Products" />
+   <meta property="og:title" content="Rahman Group - Products" />
    <meta property="og:description" content="Safety footwear, protection equipment, gloves, helmets, masks, eye and ear protection, all conform to supreme quality and design with durability and comfort." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="Rahman Group Products">
+   <meta name="twitter:title" content="Rahman Group - Products">
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="Safety footwear, protection equipment, gloves, helmets, masks, eye and ear protection, all conform to supreme quality and design with durability and comfort.">
    <?php  require("include/header-link.php"); ?>

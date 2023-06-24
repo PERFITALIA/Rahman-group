@@ -3,13 +3,12 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <title>Rahman Group Brands</title>
-   <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
+   <title>Rahman Group - Brands</title>   
    <meta name="description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design.">
-   <meta property="og:title" content="Rahman Group Brands" />
+   <meta property="og:title" content="Rahman Group - Brands" />
    <meta property="og:description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="Rahman Group Brands">
+   <meta name="twitter:title" content="Rahman Group - Brands">
    
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design.">

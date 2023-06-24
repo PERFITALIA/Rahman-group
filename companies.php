@@ -3,13 +3,12 @@
 <head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
- <title>Rahman Group Companies</title>
- <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
+ <title>Rahman Group - Companies</title>
  <meta name="description" content="Rahman Group is a global conglomerate with offices, R&D centres, and manufacturing facilities in India, Spain, Italy, France, China, South Africa, and the UAE.">
- <meta property="og:title" content="Rahman Group Companies" />
+ <meta property="og:title" content="Rahman Group - Companies" />
  <meta property="og:description" content="Rahman Group is a global conglomerate with offices, R&D centres, and manufacturing facilities in India, Spain, Italy, France, China, South Africa, and the UAE." />
  <meta property="og:image" content="images/logo-og.png" />
- <meta name="twitter:title" content="Rahman Group Companies">
+ <meta name="twitter:title" content="Rahman Group - Companies">
  
  <meta property="twitter:image" content="images/logo-og.png" />
  <meta name="twitter:description" content="Rahman Group is a global conglomerate with offices, R&D centres, and manufacturing facilities in India, Spain, Italy, France, China, South Africa, and the UAE.">

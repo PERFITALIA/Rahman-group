@@ -3,13 +3,12 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <title>Rahman Group Contact Us</title>
-      <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
+      <title>Rahman Group - Contact Us</title>
       <meta name="description" content="The Rahman Group has a present across India and the globe. We welcome stakeholders to connect with us through physical channels as well as on social media.">
-      <meta property="og:title" content="Rahman Group Contact Us" />
+      <meta property="og:title" content="Rahman Group - Contact Us" />
       <meta property="og:description" content="The Rahman Group has a present across India and the globe. We welcome stakeholders to connect with us through physical channels as well as on social media." />
       <meta property="og:image" content="images/logo-og.png" />
-      <meta name="twitter:title" content="Rahman Group Contact Us">
+      <meta name="twitter:title" content="Rahman Group - Contact Us">
       
       <meta property="twitter:image" content="images/logo-og.png" />
       <meta name="twitter:description" content="The Rahman Group has a present across India and the globe. We welcome stakeholders to connect with us through physical channels as well as on social media.">

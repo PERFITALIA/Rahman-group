@@ -3,13 +3,12 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <title>Rahman Group CSR & Sustainability</title>
-   <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
+   <title>Rahman Group - CSR & Sustainability</title>
    <meta name="description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate.">
-   <meta property="og:title" content="Rahman Group CSR & Sustainability" />
+   <meta property="og:title" content="Rahman Group - CSR & Sustainability" />
    <meta property="og:description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="Rahman Group CSR & Sustainability">
+   <meta name="twitter:title" content="Rahman Group - CSR & Sustainability">
    
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate.">
@@ -35,13 +34,13 @@
    <div class="container">
       <div class="col-md-12">
          <div class="breadCrumbTxt">
-          <a href="index.php">Home</a> &gt;
-          <a href="#" class="active">CSR & Sustainability</a>
-       </div>
-    </div>
- </div>
+           <a href="index.php">Home</a> &gt;
+           <a href="#" class="active">CSR & Sustainability</a>
+        </div>
+     </div>
+  </div>
 
- <div class="aboutsection">
+  <div class="aboutsection">
    <div class="container">
       <div class="abtxt wow fadeInUp">While our certifications and <span class="ppetxt add_hover">business processes demonstrate
                <!--<div class="ppedata">

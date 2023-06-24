@@ -10,13 +10,13 @@ ini_set('display_errors', '1');
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <title>Rahman Group Investor Relations</title>
+   <title>Rahman Group - Investor Relations</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="We thank our investors for their support and encouragement and reward them with growth, expansion and returns.">
-   <meta property="og:title" content="Rahman Group Investor Relations" />
+   <meta property="og:title" content="Rahman Group - Investor Relations" />
    <meta property="og:description" content="We thank our investors for their support and encouragement and reward them with growth, expansion and returns." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="Rahman Group Investor Relations">
+   <meta name="twitter:title" content="Rahman Group - Investor Relations">
    
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="We thank our investors for their support and encouragement and reward them with growth, expansion and returns.">
