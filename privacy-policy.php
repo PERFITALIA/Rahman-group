@@ -3,12 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Rahman Group Privacy and Policy Page</title>
-	<link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
+	<title>Rahman Group - Privacy and Policy Page</title>	
 	<meta name="description" content="">
-	<meta property="og:title" content="Rahman Group Privacy and Policy Page" />
+	<meta property="og:title" content="Rahman Group - Privacy and Policy Page" />
 	<meta property="og:description" content="" />
-	<meta name="twitter:title" content="Rahman Group Privacy and Policy Page">
+	<meta name="twitter:title" content="Rahman Group - Privacy and Policy Page">
 	<meta name="twitter:description" content="">
 	<?php  require("include/header-link.php"); ?>
 </head>

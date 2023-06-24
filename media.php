@@ -3,13 +3,13 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <title>Rahman Group Media</title>
+   <title>Rahman Group - Media</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="We keep our stakeholders updated about events and activities in the group as well as information related to the domains in which we are present.">
-   <meta property="og:title" content="Rahman Group Media" />
+   <meta property="og:title" content="Rahman Group - Media" />
    <meta property="og:description" content="We keep our stakeholders updated about events and activities in the group as well as information related to the domains in which we are present." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="Rahman Group Media">
+   <meta name="twitter:title" content="Rahman Group - Media">
    
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="We keep our stakeholders updated about events and activities in the group as well as information related to the domains in which we are present.">
