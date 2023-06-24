@@ -6,10 +6,10 @@
    <title>Rahman Group CSR & Sustainability</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate.">
-   <meta property="og:title" content="" />
+   <meta property="og:title" content="Rahman Group CSR & Sustainability" />
    <meta property="og:description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="">
+   <meta name="twitter:title" content="Rahman Group CSR & Sustainability">
    
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="We uphold the principles of ESG. Our dedicated CSR committee, certifications and sustainable practices endorse our efforts as a responsible corporate.">

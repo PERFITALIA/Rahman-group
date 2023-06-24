@@ -6,9 +6,9 @@
       <title>Rahman Group Saftex Middle East Page</title>
       <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
       <meta name="description" content="">
-      <meta property="og:title" content="" />
+      <meta property="og:title" content="Rahman Group Saftex Middle East Page" />
       <meta property="og:description" content="" />
-      <meta name="twitter:title" content="">
+      <meta name="twitter:title" content="Rahman Group Saftex Middle East Page">
       <meta name="twitter:description" content="">
       <?php  require("include/header-link.php"); ?>
    </head>
