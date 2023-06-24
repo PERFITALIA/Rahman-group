@@ -6,10 +6,10 @@
    <title>Rahman Group Brands</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design.">
-   <meta property="og:title" content="" />
+   <meta property="og:title" content="Rahman Group Brands" />
    <meta property="og:description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="">
+   <meta name="twitter:title" content="Rahman Group Brands">
    
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="Rahman Group manufactures, markets and showcases a wide range of global and local safety and fashion brands which are known for their premium quality and design.">

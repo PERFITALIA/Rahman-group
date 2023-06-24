@@ -6,10 +6,10 @@
    <title>Rahman Group Products</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="Safety footwear, protection equipment, gloves, helmets, masks, eye and ear protection, all conform to supreme quality and design with durability and comfort.">
-   <meta property="og:title" content="" />
+   <meta property="og:title" content="Rahman Group Products" />
    <meta property="og:description" content="Safety footwear, protection equipment, gloves, helmets, masks, eye and ear protection, all conform to supreme quality and design with durability and comfort." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="">
+   <meta name="twitter:title" content="Rahman Group Products">
    <meta property="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="Safety footwear, protection equipment, gloves, helmets, masks, eye and ear protection, all conform to supreme quality and design with durability and comfort.">
    <?php  require("include/header-link.php"); ?>

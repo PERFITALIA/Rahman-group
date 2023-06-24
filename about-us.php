@@ -6,10 +6,10 @@
    <title>Rahman Group About Us </title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="Welcome to the world of Rahman. We have a long legacy of multi-national production and marketing of the best quality of leather for all reasons and seasons.">
-   <meta property="og:title" content="" />
+   <meta property="og:title" content="Rahman Group About Us" />
    <meta property="og:description" content="Welcome to the world of Rahman. We have a long legacy of multi-national production and marketing of the best quality of leather for all reasons and seasons." />
    <meta property="og:image" content="images/logo-og.png" />
-   <meta name="twitter:title" content="">
+   <meta name="twitter:title" content="Rahman Group About Us">
    <meta name="twitter:image" content="images/logo-og.png" />
    <meta name="twitter:description" content="Welcome to the world of Rahman. We have a long legacy of multi-national production and marketing of the best quality of leather for all reasons and seasons.">
    <?php  require("include/header-link.php"); ?>

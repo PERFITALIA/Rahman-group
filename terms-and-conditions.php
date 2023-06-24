@@ -6,9 +6,9 @@
 	<title>Rahman Group Terms and Conditions Page</title>
 	<link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
 	<meta name="description" content="">
-	<meta property="og:title" content="" />
+	<meta property="og:title" content="Rahman Group Terms and Conditions Page" />
 	<meta property="og:description" content="" />
-	<meta name="twitter:title" content="">
+	<meta name="twitter:title" content="Rahman Group Terms and Conditions Page">
 	<meta name="twitter:description" content="">
 	<?php  require("include/header-link.php"); ?>
 </head>

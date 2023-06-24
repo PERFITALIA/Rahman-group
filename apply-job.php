@@ -15,9 +15,9 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <title>Rahman Group</title>
    <meta name="description" content="">
-   <meta property="og:title" content="" />
+   <meta property="og:title" content="Rahman Group" />
    <meta property="og:description" content="" />
-   <meta name="twitter:title" content="">
+   <meta name="twitter:title" content="Rahman Group">
    <meta name="twitter:description" content="">
    <?php  require("include/header-link.php"); ?>
 </head>

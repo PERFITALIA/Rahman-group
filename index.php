@@ -3,14 +3,14 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <title>Rahman Group Home</title>
+   <title>Rahman Group</title>
    <link rel="shortcut icon" href="images/favicon.jpg" type="image/jpg"/>
    <meta name="description" content="We are specialists in the manufacture of leather, upholstery for furniture and automotive, personal protective and occupational safety equipment for worksites.">
 
-   <meta property="og:title" content="" />
-   <meta property="og:description" content="" />
-   <meta name="twitter:title" content="">
-   <meta name="twitter:description" content="">
+   <meta property="og:title" content="Rahman Group" />
+   <meta property="og:description" content="We are specialists in the manufacture of leather, upholstery for furniture and automotive, personal protective and occupational safety equipment for worksites." />
+   <meta name="twitter:title" content="Rahman Group">
+   <meta name="twitter:description" content="We are specialists in the manufacture of leather, upholstery for furniture and automotive, personal protective and occupational safety equipment for worksites.">
    <meta property="og:image" content="images/logo-og.png" />   
    <meta property="twitter:image" content="images/logo-og.png" />
    <?php  require("include/header-link.php"); ?>
