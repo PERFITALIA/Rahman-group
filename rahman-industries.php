@@ -15,7 +15,7 @@
       <?php  require("include/header.php"); ?>
      <div class="aboutsection">
       <div class="container">
-         <div class="abtxt">Rahman Industries has over<span> 40 years of experience in manufacturing leather and footwear.</span> Customising its products to meet a range of needs, the company manufactures leather for various end-uses <span>including fashion wear, fashion accessories, safety footwear, upholstery, etc.</span></div>
+         <div class="abtxt abtxtIndustry">Rahman Industries has over<span> 40 years of experience in manufacturing leather and footwear.</span> Customising its products to meet a range of needs, the company manufactures leather for various end-uses <span>including fashion wear, fashion accessories, safety footwear, upholstery, etc.</span></div>
       </div>
    </div>
 

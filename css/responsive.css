@@ -742,6 +742,9 @@
 
 
 @media (max-width: 768px) {
+  .abtxtIndustry{
+    padding-top: 50px;
+  }
     .brand-numHeight {
     height: auto;
 }
