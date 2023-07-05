@@ -46,15 +46,10 @@
            <div class="brand-logo"><img src="images/perf-lovo.png"></div>
            <h6 class="wow fadeInUp">Perf products comprise best-in-class, premium, personal and occupational safety gear and sportswear. </h6>
            <div class="row">
-            <div class="col-md-6">
-             <div class="brand-num">
-                <h4 class="wow fadeInUp">25</h4>
-                <p class="wow fadeInUp">years of expertise</p>
-             </div>
-          </div>
+           
           <div class="col-md-6">
              <div class="brand-num br-last">
-                <h4 class="wow fadeInUp">6</h4>
+                <h4 class="wow fadeInUp">40+</h4>
                 <p class="wow fadeInUp">countries</p>
              </div>
           </div>
@@ -113,7 +108,7 @@
 
        <div class="col-md-5">
         <div class="brand-num br-last">
-          <h4 class="wow fadeInUp">14</h4>
+          <h4 class="wow fadeInUp">35</h4>
           <p class="wow fadeInUp">countries</p>
        </div>
     </div>

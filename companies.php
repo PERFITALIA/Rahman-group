@@ -274,7 +274,7 @@
                  <h4>india</h4>
              </div>
              <h3 class="wow fadeInUp">SAFETIX PROTECTIVE EQUIPMENTS PVT LIMITED</h3>
-             <p class="wow fadeInUp">Safetix Protective markets a complete end-to-end bouquet of Personal Protective Equipment (PPE), from safety helmets, eye and year protection, masks, gloves and footwear to entire PPE suits. All our products are carefully purposed and designed to facilitate safety with comfort in work environments where people protection is desired.</p>
+             <p class="wow fadeInUp">Safetix Protective markets a complete end-to-end bouquet of Personal Protective Equipment (PPE), from safety helmets, eye and ear protection, masks, gloves and footwear to entire PPE suits. All our products are carefully purposed and designed to facilitate safety with comfort in work environments where people protection is desired.</p>
              <div class="visit-btn wow fadeInUp"><a href="https://perf-safety.in/" target="_blank">Visit Safetix Protective Equipment (India) Pvt. Ltd.<img src="images/visit-perf-icon.svg"></a></div>
          </div><!--c-top-text-->
          <div class="c-btm-text">
